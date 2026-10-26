@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1004" height="280" viewBox="0 0 1004 280" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12150E"/>
+      <stop offset="1" stop-color="#3B4A2C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1004" height="280" rx="32" fill="url(#bg)" stroke="#3F4837" stroke-width="1.5"/>
+  <circle cx="880" cy="60" r="120" fill="#2E4A18" opacity="0.55"/>
+  <circle cx="760" cy="230" r="46" fill="#3B4A2C" opacity="0.9"/>
+  <circle cx="120" cy="245" r="26" fill="#2E4A18" opacity="0.55"/>
+  <rect x="90" y="52" width="150" height="8" rx="4" fill="#A6D34F" opacity="0.5"/>
+  <rect x="90" y="70" width="90" height="8" rx="4" fill="#A6D34F" opacity="0.3"/>
+  <text x="502" y="140" font-family="Roboto, 'Segoe UI', Arial, sans-serif" font-size="17" letter-spacing="3" fill="#C9D1C4" text-anchor="middle" opacity="0.75">M-UMAR-2017</text>
+  <text x="502" y="205" font-family="Roboto, 'Segoe UI', Arial, sans-serif" font-size="72" font-weight="700" fill="#A6D34F" text-anchor="middle">𝖥𝖱𝖮𝖦𝖦𝖮</text>
+  <text x="502" y="240" font-family="Roboto, 'Segoe UI', Arial, sans-serif" font-size="19" fill="#C9D1C4" text-anchor="middle">hopping through code, one commit at a time</text>
+</svg>
