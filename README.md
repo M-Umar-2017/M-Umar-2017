@@ -1,56 +1,126 @@
 <div align="center">
 
-<!-- material you hero -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/m3-hero-dark.svg">
-  <img src="assets/m3-hero-light.svg" width="100%" alt="hero">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:386A20,50:7CB342,100:C5E86C&section=header&text=ribbit%2C%20i'm%20FROGGO!&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=small%20tools%20%E2%80%A2%20big%20personalities%20%E2%80%A2%20lots%20of%20lily%20pads&descSize=17&descAlignY=60" width="100%" alt="header" />
 
-<img src="https://github.com/M-Umar-2017.png" width="150" alt="avatar">
+<img src="https://github.com/M-Umar-2017.png" width="130" alt="avatar" style="border-radius:50%" />
 
-# 𝖥𝖱𝖮𝖦𝖦𝖮
+<a href="https://github.com/M-Umar-2017">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=A6D34F&center=true&vCenter=true&width=600&lines=C%2B%2B+tinkerer+%7C+Python+summoner+%F0%9F%90%B8;i+make+browsers%2C+converters+%26+tiny+utilities+%E2%9C%A8;terminal+ricing+is+a+lifestyle+OwO;learning+Blender+and+making+Discord+emotes+%F0%9F%8E%A8" alt="typing" />
+</a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.deno.dev?font=Fira+Code&size=20&pause=1200&color=A6D34F&center=true&vCenter=true&width=560&lines=C%2B%2B+tinkerer+%C2%B7+Python+summoner;small+tools%2C+big+personalities">
-  <img src="https://readme-typing-svg.deno.dev?font=Fira+Code&size=20&pause=1200&color=386A20&center=true&vCenter=true&width=560&lines=C%2B%2B+tinkerer+%C2%B7+Python+summoner;small+tools%2C+big+personalities" alt="typing intro" height="58">
-</picture>
+<br/>
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/m3-chip-about-dark.svg">
-  <img src="assets/m3-chip-about-light.svg" alt="About" height="46">
-</picture>
-
-I build small tools with big personalities — custom text editors, portable app launchers, anime-flavoured CLIs and terminal rices. Off-screen I am learning 3D in Blender and making Discord emotes.
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/m3-chip-langs-dark.svg">
-  <img src="assets/m3-chip-langs-light.svg" alt="Languages" height="46">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/m3-langs-dark.svg">
-  <img src="assets/m3-langs-light.svg" width="80%" alt="languages and tools chips">
-</picture>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/m3-chip-stats-dark.svg">
-  <img src="assets/m3-chip-stats-light.svg" alt="Stats" height="46">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=M-Umar-2017&show_icons=true&hide_border=true&bg_color=12150E&title_color=A6D34F&icon_color=A6D34F&text_color=C9D1C4&ring_color=2E4A18">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Umar-2017&show_icons=true&hide_border=true&bg_color=F9FBF0&title_color=386A20&icon_color=386A20&text_color=43483E" width="48%" alt="GitHub stats">
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Umar-2017&layout=compact&hide_border=true&bg_color=12150E&title_color=A6D34F&text_color=C9D1C4">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Umar-2017&layout=compact&hide_border=true&bg_color=F9FBF0&title_color=386A20&text_color=43483E" width="38%" alt="top languages">
-</picture>
+![Visitors](https://komarev.com/ghpvc/?username=M-Umar-2017&label=lily+pad+visitors&color=7cb342&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/M-Umar-2017?style=for-the-badge&color=a6d34f&labelColor=12150e&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/public_repos-13-386a20?style=for-the-badge&labelColor=12150e&logo=git&logoColor=white)
 
 </div>
+
+---
+
+## 🐸 hewwo, who dis?
+
+hi hi!! i'm **FROGGO** and i build **small tools with big personalities**: custom browsers, portable app packages, icon packs, a converter that never sees your files, and way too many terminal rices. 🌿
+
+```cpp
+struct Froggo {
+    std::string  vibe      = "chaotic-cozy OwO";
+    std::string  main_langs[2] = {"C++", "Python"};
+    std::string  side_quests[3] = {"Blender", "Discord emotes", "ricing everything"};
+    bool         touchesGrass  = sometimes;
+    int          openTabs      = 69;   // nice
+};
+```
+
+- 🔭 **right now:** poking at **ViB**, a keyboard-first, Vim-style browser
+- 🎨 **learning:** 3D in Blender (the donut era never ends)
+- 🍃 **love:** private, local-first tools, pretty terminals, catppuccin everything
+- 💬 **ask me about:** browsers, rices, canvas tricks, portable apps
+- ⚡ **fun fact:** i'll rice a terminal for 3 hours and call it "productivity"
+
+---
+
+## 🧰 lily pad toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,kotlin,electron,blender,git,github,vim,windows,linux,discord&theme=dark" alt="skills" />
+
+<br/><br/>
+
+![C++](https://img.shields.io/badge/C++-tinkering-a6d34f?style=for-the-badge&logo=cplusplus&logoColor=12150e&labelColor=12150e)
+![Python](https://img.shields.io/badge/Python-summoning-7cb342?style=for-the-badge&logo=python&logoColor=white&labelColor=12150e)
+![Ricing](https://img.shields.io/badge/ricing-addicted-c5e86c?style=for-the-badge&logo=gnometerminal&logoColor=12150e&labelColor=12150e)
+![Catppuccin](https://img.shields.io/badge/catppuccin-forever-f5c2e7?style=for-the-badge&labelColor=12150e)
+
+</div>
+
+---
+
+## 🪷 stuff i made
+
+| 🌟 project | 💭 what it is | 🛠️ vibes |
+| :-- | :-- | :-- |
+| 🌐 **[ViB](https://github.com/M-Umar-2017/ViB)** | A keyboard-first desktop browser with Vim-style modal navigation. Early alpha, still growing! | `Electron` `Chromium` |
+| 📱 **[KVB](https://github.com/M-Umar-2017/KVBrowser)** | Lightweight experimental Android browser with tabs, themes, shortcuts and a Material 3 look. | `Kotlin` `Compose` |
+| 🖼️ **[ImageKit](https://github.com/M-Umar-2017/ImageKit)** | Convert images between formats right in your browser. No uploads, no accounts, no servers. | `JS` `Canvas` |
+| 🌌 **[Wallpapers](https://m-umar-2017.github.io/Wallpapers/)** | 200+ hand-picked wallpapers in 12 collections with a live gallery. Lots of catppuccin! | `HTML` `Pages` |
+| 🔵 **[BlueSKy](https://github.com/M-Umar-2017/BLueSKy)** | A sky-blue icon pack for Blender, VSCode, Git, Zed and more. 2048px, CC0. | `PNG` `ICO` `ICNS` |
+| 🎮 **[LibreSprite Portable](https://github.com/M-Umar-2017/LibreSpritePortable-UnOfficial)** | A PortableApps-format package of LibreSprite. Carry your pixel art tool on a USB stick! | `PortableApps` |
+| 🔗 **[FROGGO Link Portfolio](https://github.com/M-Umar-2017/FROGGO-Link-Portfolio)** | My little link-in-bio page, all in one place. | `HTML` `CSS` `JS` |
+
+<details>
+<summary>🍃 <b>rice corner</b> (forks i'm customizing &amp; tweaking)</summary>
+
+<br/>
+
+- 🪟 [Windows-Rice](https://github.com/M-Umar-2017/Windows-Rice): making Windows look way prettier than it should
+- 💻 [Fastfetch-Ricing](https://github.com/M-Umar-2017/Fastfetch-Ricing): fastfetch configs for flexing my terminal
+- 🧭 [Helvium](https://github.com/M-Umar-2017/Helvium) and [Zen-Browser-Portable](https://github.com/M-Umar-2017/Zen-Browser-Portable): browser tinkering
+
+</details>
+
+---
+
+## 📊 pond stats (nerd corner)
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=M-Umar-2017&show_icons=true&hide_border=true&bg_color=12150E&title_color=A6D34F&icon_color=A6D34F&text_color=C9D1C4&ring_color=7CB342&count_private=true&include_all_commits=true" alt="stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Umar-2017&layout=compact&hide_border=true&bg_color=12150E&title_color=A6D34F&text_color=C9D1C4&langs_count=6" alt="top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=M-Umar-2017&hide_border=true&background=12150E&ring=7CB342&fire=A6D34F&currStreakLabel=A6D34F&sideLabels=C9D1C4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8FA57A" alt="streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Umar-2017&bg_color=12150E&color=C9D1C4&line=A6D34F&point=FFFFFF&area=true&area_color=7CB342&hide_border=true" alt="activity graph" width="95%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=M-Umar-2017&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" width="95%" />
+
+</div>
+
+---
+
+## 💌 come say hi
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-M--Umar--2017-a6d34f?style=for-the-badge&logo=github&logoColor=12150e&labelColor=12150e)](https://github.com/M-Umar-2017)
+[![Wallpapers](https://img.shields.io/badge/Wallpapers-gallery-7cb342?style=for-the-badge&logo=googlephotos&logoColor=white&labelColor=12150e)](https://m-umar-2017.github.io/Wallpapers/)
+[![Discord](https://img.shields.io/badge/Discord-say_hi-818cf8?style=for-the-badge&logo=discord&logoColor=white&labelColor=12150e)](https://discord.com/)
+
+<br/>
+
+<sub>🐸 *"small tools, big personalities"* 🐸</sub>
+
+<br/><br/>
+
+**thanks for hopping by!! drop a ⭐ if something made you smile ✨**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:C5E86C,50:7CB342,100:386A20&section=footer" width="100%" alt="footer" />
