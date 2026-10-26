@@ -87,19 +87,12 @@ struct Froggo {
 <div align="center">
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=M-Umar-2017&show_icons=true&hide_border=true&bg_color=12150E&title_color=A6D34F&icon_color=A6D34F&text_color=C9D1C4&ring_color=7CB342" alt="stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Umar-2017&layout=compact&hide_border=true&bg_color=12150E&title_color=A6D34F&text_color=C9D1C4&langs_count=6" alt="top languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Umar-2017&layout=compact&hide_border=true&bg_color=12150E&title_color=A6D34F&text_color=C9D1C4&langs_count=6&hide=vim%20script,makefile,m4,roff,shell,batchfile,nsis" alt="top languages" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=M-Umar-2017&hide_border=true&background=12150E&ring=7CB342&fire=A6D34F&currStreakLabel=A6D34F&sideLabels=C9D1C4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8FA57A" alt="streak" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Umar-2017&bg_color=12150E&color=C9D1C4&line=A6D34F&point=FFFFFF&area=true&area_color=7CB342&hide_border=true" alt="activity graph" width="95%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=M-Umar-2017&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" width="95%" />
 
 </div>
 
