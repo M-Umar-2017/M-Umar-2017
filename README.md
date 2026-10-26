@@ -86,7 +86,7 @@ struct Froggo {
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=M-Umar-2017&show_icons=true&hide_border=true&bg_color=12150E&title_color=A6D34F&icon_color=A6D34F&text_color=C9D1C4&ring_color=7CB342&count_private=true&include_all_commits=true" alt="stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=M-Umar-2017&show_icons=true&hide_border=true&bg_color=12150E&title_color=A6D34F&icon_color=A6D34F&text_color=C9D1C4&ring_color=7CB342" alt="stats" />
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Umar-2017&layout=compact&hide_border=true&bg_color=12150E&title_color=A6D34F&text_color=C9D1C4&langs_count=6" alt="top languages" />
 
 <br/>
