@@ -32,12 +32,6 @@ struct Froggo {
 };
 ```
 
-- 🔭 **right now:** poking at **ViB**, a keyboard-first, Vim-style browser
-- 🎨 **learning:** 3D in Blender (the donut era never ends)
-- 🍃 **love:** private, local-first tools, pretty terminals, catppuccin everything
-- 💬 **ask me about:** browsers, rices, canvas tricks, portable apps
-- ⚡ **fun fact:** i'll rice a terminal for 3 hours and call it "productivity"
-
 ---
 
 ## 🧰 lily pad toolbox
@@ -57,12 +51,12 @@ struct Froggo {
 
 ---
 
-## 🪷 stuff i made
+## 🐸 stuff i made
 
 | 🌟 project | 💭 what it is | 🛠️ vibes |
 | :-- | :-- | :-- |
 | 🌐 **[ViB](https://github.com/M-Umar-2017/ViB)** | A keyboard-first desktop browser with Vim-style modal navigation. Early alpha, still growing! | `Electron` `Chromium` |
-| 📱 **[KVB](https://github.com/M-Umar-2017/KVBrowser)** | Lightweight experimental Android browser with tabs, themes, shortcuts and a Material 3 look. | `Kotlin` `Compose` |
+| 📱 **[KVB](https://github.com/M-Umar-2017/KVBrowser)** | Lightweight experimental Android browser with tabs, themes, shortcuts and a Material 3 look, (vibe coded). | `Kotlin` `Compose` |
 | 🖼️ **[ImageKit](https://github.com/M-Umar-2017/ImageKit)** | Convert images between formats right in your browser. No uploads, no accounts, no servers. | `JS` `Canvas` |
 | 🌌 **[Wallpapers](https://m-umar-2017.github.io/Wallpapers/)** | 200+ hand-picked wallpapers in 12 collections with a live gallery. Lots of catppuccin! | `HTML` `Pages` |
 | 🔵 **[BlueSKy](https://github.com/M-Umar-2017/BLueSKy)** | A sky-blue icon pack for Blender, VSCode, Git, Zed and more. 2048px, CC0. | `PNG` `ICO` `ICNS` |
