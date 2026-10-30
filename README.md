@@ -58,23 +58,11 @@ struct Froggo {
 | 🌐 **[ViB](https://github.com/M-Umar-2017/ViB)** | A keyboard-first desktop browser with Vim-style modal navigation. Early alpha, still growing! | `Electron` `Chromium` |
 | 📱 **[KVB](https://github.com/M-Umar-2017/KVBrowser)** | Lightweight experimental Android browser with tabs, themes, shortcuts and a Material 3 look, (vibe coded). | `Kotlin` `Compose` |
 | 🖼️ **[ImageKit](https://github.com/M-Umar-2017/ImageKit)** | Convert images between formats right in your browser. No uploads, no accounts, no servers. | `JS` `Canvas` |
-| 🌌 **[Wallpapers](https://m-umar-2017.github.io/Wallpapers/)** | 200+ hand-picked wallpapers in 12 collections with a live gallery. Lots of catppuccin! | `HTML` `Pages` |
-| 🔵 **[BlueSKy](https://github.com/M-Umar-2017/BLueSKy)** | A sky-blue icon pack for Blender, VSCode, Git, Zed and more. 2048px, CC0. | `PNG` `ICO` `ICNS` |
+| 🌌 **[Wallpapers](https://m-umar-2017.github.io/Wallpapers/)** | 200+ wallpapers in 12 collections with a live gallery. Lots of catppuccin! | `HTML` `Pages` |
+| 🔵 **[BlueSKy](https://github.com/M-Umar-2017/BLueSKy)** | A sky-blue icon pack for Blender, VSCode, Git, Zed and more. 2048px, CC0. hate it!| `PNG` `ICO` `ICNS` |
 | 🎮 **[LibreSprite Portable](https://github.com/M-Umar-2017/LibreSpritePortable-UnOfficial)** | A PortableApps-format package of LibreSprite. Carry your pixel art tool on a USB stick! | `PortableApps` |
 | 🔗 **[FROGGO Link Portfolio](https://github.com/M-Umar-2017/FROGGO-Link-Portfolio)** | My little link-in-bio page, all in one place. | `HTML` `CSS` `JS` |
 
-<details>
-<summary>🍃 <b>rice corner</b> (forks i'm customizing &amp; tweaking)</summary>
-
-<br/>
-
-- 🪟 [Windows-Rice](https://github.com/M-Umar-2017/Windows-Rice): making Windows look way prettier than it should
-- 💻 [Fastfetch-Ricing](https://github.com/M-Umar-2017/Fastfetch-Ricing): fastfetch configs for flexing my terminal
-- 🧭 [Helvium](https://github.com/M-Umar-2017/Helvium) and [Zen-Browser-Portable](https://github.com/M-Umar-2017/Zen-Browser-Portable): browser tinkering
-
-</details>
-
----
 
 ## 📊 pond stats (nerd corner)
 
