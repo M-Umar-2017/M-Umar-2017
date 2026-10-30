@@ -68,11 +68,6 @@ struct Froggo {
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=M-Umar-2017&show_icons=true&hide_border=true&bg_color=12150E&title_color=A6D34F&icon_color=A6D34F&text_color=C9D1C4&ring_color=7CB342" alt="stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Umar-2017&layout=compact&hide_border=true&bg_color=12150E&title_color=A6D34F&text_color=C9D1C4&langs_count=6&hide=vim%20script,makefile,m4,roff,shell,batchfile,nsis" alt="top languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=M-Umar-2017&hide_border=true&background=12150E&ring=7CB342&fire=A6D34F&currStreakLabel=A6D34F&sideLabels=C9D1C4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8FA57A" alt="streak" />
 
 
