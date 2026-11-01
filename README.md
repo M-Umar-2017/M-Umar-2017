@@ -38,7 +38,7 @@ struct Froggo {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,nodejs,npm,kotlin,qt,electron,blender,git,github,gitlab,vim,neovim,vscodium,pwsh,windows,linux,obsidian,gmail,mastodon,discord&theme=dark&perline=12" alt="skills" />
+<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,nodejs,npm,kotlin,qt,electron,blender,git,github,gitlab,vim,neovim,vscodium,pwsh,windows,linux,obsidian,gmail,mastodon,discord&theme=dark&perline=5" alt="skills" />
 
 <br/><br/>
 
